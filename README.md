@@ -52,7 +52,7 @@ void exit(int status);
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/[your-username]/pipex.git
+git clone https://github.com/fsantos23/pipex.git
 cd pipex
 make
 ```
